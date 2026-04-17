@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khusburahman&label=Profile%20views&color=0e75b6&style=flat" alt="khusburahman" /> </p>
 
-- 🌱 I’m currently learning *Asp dot net core and C# OOP,MS SQL Server*
+- 🌱 I’m currently learning *Asp dot net core and C# OOP,MS SQL Server or MERN*
 
 - 💬 Ask me about *Bootstrap,Javascript and C#*
 
