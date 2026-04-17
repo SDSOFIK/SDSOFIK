@@ -13,10 +13,14 @@
 - 📫 How to reach me *sdsofik2002@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sd-sofik-9237992a3/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a target="blank" href="https://www.facebook.com/sofik.194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SD SOfik" height="30" width="40" /></a>
+<p style="display: flex; align-items: center; gap: 12px;">
+  <a href="https://www.linkedin.com/in/sd-sofik-9237992a3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://www.facebook.com/sofik.194/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
 </p>
 
 
