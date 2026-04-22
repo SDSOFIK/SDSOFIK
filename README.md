@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack MERN & ASP.NET developer from Bangladesh</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khusburahman&label=Profile%20views&color=0e75b6&style=flat" alt="khusburahman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khusburahman&label=Profile%20views&color=0e75b6&style=flat" alt="Sofik" /> </p>
 
 - 🌱 I’m currently learning *Asp dot net core and C# OOP,MS SQL Server or MERN*
 
