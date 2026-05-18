@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm SOFIK </h1>
-<h3 align="center">A passionate Full Stack MERN & ASP.NET developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack MERN Developer From Bangladesh</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khusburahman&label=Profile%20views&color=0e75b6&style=flat" alt="Sofik" /> </p>
 
-- 🌱 I’m currently learning *Asp dot net core and C# OOP,MS SQL Server or MERN*
+- 🌱 I’m currently learning *Node.js, Express.js, React.js, Next.js, MongoDB and C# OOP,MS SQL Server or MERN*
 
-- 💬 Ask me about *Bootstrap,Javascript and C#*
+- 💬 Ask me about *Tailwind, Bootstrap,Javascript and C#*
 
 - 📫 How to reach me *sdsofik2002@gmail.com*
 
@@ -21,6 +21,10 @@
   <a href="https://www.facebook.com/sofik.194/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
+<a href="https://wa.me/8801315116027" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40" />
+</a>
+  
 </p>
 
 
