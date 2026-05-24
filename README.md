@@ -83,10 +83,9 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-    alt="express"
-    width="40"
-    height="40"
-    style="background-color: white; padding: 4px; border-radius: 6px;"
+    alt="Express.js"
+    width="120"
+    style="filter: brightness(0) invert(1);"
   />
 </a>
 
