@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *Node.js, Express.js, React.js, Next.js, MongoDB, and C# OOP, MS SQL Server, or MERN*
 
-- 💬 Ask me about * HTML5, CSS, Tailwind, Bootstrap,Javascript and C#*
+- 💬 Ask me about *HTML5, CSS, Tailwind, Bootstrap,Javascript and C#*
 
 - 📫 How to reach me: *sdsofik2002@gmail.com*
 
