@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khusburahman&label=Profile%20views&color=0e75b6&style=flat" alt="Sofik" /> </p>
 
-- 🌱 I’m currently learning *Node.js, Express.js, React.js, Next.js, MongoDB and C# OOP,MS SQL Server or MERN*
+- 🌱 I’m currently learning *Node.js, Express.js, React.js, Next.js, MongoDB, and C# OOP, MS SQL Server, or MERN*
 
-- 💬 Ask me about *Tailwind, Bootstrap,Javascript and C#*
+- 💬 Ask me about * HTML5, CSS, Tailwind, Bootstrap,Javascript and C#*
 
-- 📫 How to reach me *sdsofik2002@gmail.com*
+- 📫 How to reach me: *sdsofik2002@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p style="display: flex; align-items: center; gap: 12px;">
